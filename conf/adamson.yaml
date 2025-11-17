@@ -1,0 +1,8 @@
+data_name: "adamson"
+pert_type: "gene"
+threshold: 0.3 
+threshold_co: 0.3
+gene_num: 5000
+epochs: 5
+batch_size: 64
+lr: 1e-3

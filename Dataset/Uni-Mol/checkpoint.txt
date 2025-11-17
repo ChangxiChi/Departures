@@ -1,0 +1,1 @@
+# download the checkpoint "mol_pre_all_h_220816.pt" to here (https://github.com/deepmodeling/Uni-Mol)

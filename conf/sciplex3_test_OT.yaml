@@ -1,0 +1,11 @@
+data_name: "sciplex3"
+pert_type: "molecular"
+threshold: 0.3 
+threshold_co: 0.3
+gene_num: 2000
+batch_size: 128
+lr: 1e-3
+pred_ood: False
+time: "20250905_201652"
+num_steps: 50
+OT: True
